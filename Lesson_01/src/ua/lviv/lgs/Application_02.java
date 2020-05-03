@@ -16,3 +16,4 @@ public class Application_02 {
 		System.out.println("MaxDouble = " + Double.MAX_VALUE);
 	}
 }
+//commit
